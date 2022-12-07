@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @_0oo11235oo0_
+- 👋 Hi, I’m @Grateful~Hedge
 - 👀 I’m interested in creating cool Dapps
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on anything my skills can handle
