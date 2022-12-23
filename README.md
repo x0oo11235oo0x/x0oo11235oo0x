@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @x0oo11235oo0x
-- 👀 I’m interested in creating cool Dapps
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on anything my skills can handle
+- 👋 Hi, I’m @0oo11235oo0x
+- 👀 Always focused
+- 🌱 Always Working
+- 💞️Always around
 - 📫 How to reach me 0oo11235oo0@protonmail.com
 
 <!---
